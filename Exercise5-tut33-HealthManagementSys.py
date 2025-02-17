@@ -1,6 +1,6 @@
 #Health management system
 
-print("Welcome Health management system by Subhasree")
+print("Welcome to Health management system by Subhasree")
 import datetime
 
 def getdate():
