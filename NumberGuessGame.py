@@ -1,8 +1,4 @@
-#guess the number exercise like input a number and check if the number you have entered is matching witht the computer input or not
-#no of guesses =9
-#print no of guesses left
-# print game over if the nof of gueess are over
-#and if he /she wins then print the in how many no of gueeses he / she guesed it correctly
+
 
 print("Welcome to Game,This is the number guessing game by Subhasree")
 num = 20
