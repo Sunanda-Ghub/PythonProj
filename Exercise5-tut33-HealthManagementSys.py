@@ -1,33 +1,6 @@
 #Health management system
-'''
-suppose you are giving diet plan to your clienets may be for nutritions and weight loose and may be for spinal problem and muscle problem and you design
-the diet for them and also you design exercise for them
-'''
-# '''
-# 3 clients= Harry, Rohan, Hamad = for these people we have to manage the diet like what are they eating and they are doing exercise or not
-# so you have to create 3 file for their foods for 3 people and 3 more files for their exercises so total 6 files you have to create
-# ->write a function that when executes takes as input the client name
-# ->create like press 1 for rohan and 2 for harry and 3 for Hamad
-# ->now ask the user like what to want to check for suppose for 1 that means for Rohan i.e exercise or diet
-# ->suppose 1 for exercise and 2 for diet and user entered 2 for Rohan means the diet
-# ->then the diet will be printed
-# ->then all these things like diet will be printed to the file
-# function= use this funtion
-# def getdate():
-#     import datetime
-#     return datetime.datetime.now()
-#
-# print tnito the file like this
-# [timestamp] khana like chiken and roti and print a new line character
-# ex= for exercise we can write
-# [timestamp] cable crossover
-#
-# create one more funtion to retirve exercise or the food
-# -> first ask 2 types of qs like
-# do you want to lock or retrive
-# and at the end it should display a message like perfect you locked it correctly
-# '''
 
+print("Welcome Health management system by Subhasree")
 import datetime
 
 def getdate():
