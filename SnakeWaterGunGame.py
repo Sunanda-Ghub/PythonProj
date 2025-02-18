@@ -1,18 +1,5 @@
 #exercise = Game = Snake, water and Gun
 
-'''
-snake and water = snake wins
-water and gun = water wins
-snake and gun = gun wins
-
-create or use a random function and generate any variable
-ask the user for the input and choose from s for snake and w for water and g for gun and similarly it will go on
-and use while loop for this and 10 times it will work the program while loop will work 10 times
-
-
-print whoever wins between you and computer at the end
-'''
-
 print("Welcome to the Snake Water and Gun Game by Subhasree")
 
 import random
